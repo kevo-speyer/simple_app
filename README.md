@@ -1,4 +1,5 @@
 # Minimal Web App
+Bare minimum Flask webapp with pandas and requests
 
 ## BUILD 
 docker build -t simple-app .
